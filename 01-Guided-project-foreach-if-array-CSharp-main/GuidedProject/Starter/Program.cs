@@ -17,7 +17,7 @@ int [] andrewscores = new int[] {92, 89, 81, 96, 90, 89};
 int [] emmaScores = new int[] {90, 85, 87, 98, 68, 89, 89, 89};
 int [] loganScores = new int[] {90, 95, 87, 88, 96, 96};
 
-Console.WriteLine("Student\t\tGrade\n");//only occur once pale juu tu kama heading.
+Console.WriteLine("Student\t\tGrade\n");//only occur as heading
 
 foreach (string name in studentnames)
 {

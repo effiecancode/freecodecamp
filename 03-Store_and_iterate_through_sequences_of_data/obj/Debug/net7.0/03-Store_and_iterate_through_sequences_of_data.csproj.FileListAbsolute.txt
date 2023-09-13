@@ -1,0 +1,15 @@
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/bin/Debug/net7.0/03-Store_and_iterate_through_sequences_of_data
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/bin/Debug/net7.0/03-Store_and_iterate_through_sequences_of_data.deps.json
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/bin/Debug/net7.0/03-Store_and_iterate_through_sequences_of_data.runtimeconfig.json
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/bin/Debug/net7.0/03-Store_and_iterate_through_sequences_of_data.dll
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/bin/Debug/net7.0/03-Store_and_iterate_through_sequences_of_data.pdb
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/obj/Debug/net7.0/03-Store_and_iterate_through_sequences_of_data.csproj.AssemblyReference.cache
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/obj/Debug/net7.0/03-Store_and_iterate_through_sequences_of_data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/obj/Debug/net7.0/03-Store_and_iterate_through_sequences_of_data.AssemblyInfoInputs.cache
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/obj/Debug/net7.0/03-Store_and_iterate_through_sequences_of_data.AssemblyInfo.cs
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/obj/Debug/net7.0/03-Store_and_iterate_through_sequences_of_data.csproj.CoreCompileInputs.cache
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/obj/Debug/net7.0/03-Store_and_iterate_through_sequences_of_data.dll
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/obj/Debug/net7.0/refint/03-Store_and_iterate_through_sequences_of_data.dll
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/obj/Debug/net7.0/03-Store_and_iterate_through_sequences_of_data.pdb
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/obj/Debug/net7.0/03-Store_and_iterate_through_sequences_of_data.genruntimeconfig.cache
+/Users/mac/freecodecamp/03-Store_and_iterate_through_sequences_of_data/obj/Debug/net7.0/ref/03-Store_and_iterate_through_sequences_of_data.dll

@@ -1,0 +1,15 @@
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/bin/Debug/net7.0/freecodecamp
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/bin/Debug/net7.0/freecodecamp.deps.json
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/bin/Debug/net7.0/freecodecamp.runtimeconfig.json
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/bin/Debug/net7.0/freecodecamp.dll
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/bin/Debug/net7.0/freecodecamp.pdb
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/obj/Debug/net7.0/freecodecamp.csproj.AssemblyReference.cache
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/obj/Debug/net7.0/freecodecamp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/obj/Debug/net7.0/freecodecamp.AssemblyInfoInputs.cache
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/obj/Debug/net7.0/freecodecamp.AssemblyInfo.cs
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/obj/Debug/net7.0/freecodecamp.csproj.CoreCompileInputs.cache
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/obj/Debug/net7.0/freecodecamp.dll
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/obj/Debug/net7.0/refint/freecodecamp.dll
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/obj/Debug/net7.0/freecodecamp.pdb
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/obj/Debug/net7.0/freecodecamp.genruntimeconfig.cache
+/Users/mac/freecodecamp/01-decision logic with if, else if, and else/obj/Debug/net7.0/ref/freecodecamp.dll

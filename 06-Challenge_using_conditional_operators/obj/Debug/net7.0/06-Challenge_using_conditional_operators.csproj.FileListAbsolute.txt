@@ -1,0 +1,15 @@
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/obj/Debug/net7.0/06-Challenge_using_conditional_operators.csproj.AssemblyReference.cache
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/obj/Debug/net7.0/06-Challenge_using_conditional_operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/obj/Debug/net7.0/06-Challenge_using_conditional_operators.AssemblyInfoInputs.cache
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/obj/Debug/net7.0/06-Challenge_using_conditional_operators.AssemblyInfo.cs
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/obj/Debug/net7.0/06-Challenge_using_conditional_operators.csproj.CoreCompileInputs.cache
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/bin/Debug/net7.0/06-Challenge_using_conditional_operators
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/bin/Debug/net7.0/06-Challenge_using_conditional_operators.deps.json
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/bin/Debug/net7.0/06-Challenge_using_conditional_operators.runtimeconfig.json
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/bin/Debug/net7.0/06-Challenge_using_conditional_operators.dll
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/bin/Debug/net7.0/06-Challenge_using_conditional_operators.pdb
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/obj/Debug/net7.0/06-Challenge_using_conditional_operators.dll
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/obj/Debug/net7.0/refint/06-Challenge_using_conditional_operators.dll
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/obj/Debug/net7.0/06-Challenge_using_conditional_operators.pdb
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/obj/Debug/net7.0/06-Challenge_using_conditional_operators.genruntimeconfig.cache
+/Users/mac/freecodecamp/06-Challenge_using_conditional_operators/obj/Debug/net7.0/ref/06-Challenge_using_conditional_operators.dll

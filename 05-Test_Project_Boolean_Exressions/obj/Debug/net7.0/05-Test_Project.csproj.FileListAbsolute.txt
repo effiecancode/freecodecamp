@@ -1,0 +1,15 @@
+/Users/mac/freecodecamp/05-Test_Project/bin/Debug/net7.0/05-Test_Project
+/Users/mac/freecodecamp/05-Test_Project/bin/Debug/net7.0/05-Test_Project.deps.json
+/Users/mac/freecodecamp/05-Test_Project/bin/Debug/net7.0/05-Test_Project.runtimeconfig.json
+/Users/mac/freecodecamp/05-Test_Project/bin/Debug/net7.0/05-Test_Project.dll
+/Users/mac/freecodecamp/05-Test_Project/bin/Debug/net7.0/05-Test_Project.pdb
+/Users/mac/freecodecamp/05-Test_Project/obj/Debug/net7.0/05-Test_Project.csproj.AssemblyReference.cache
+/Users/mac/freecodecamp/05-Test_Project/obj/Debug/net7.0/05-Test_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/freecodecamp/05-Test_Project/obj/Debug/net7.0/05-Test_Project.AssemblyInfoInputs.cache
+/Users/mac/freecodecamp/05-Test_Project/obj/Debug/net7.0/05-Test_Project.AssemblyInfo.cs
+/Users/mac/freecodecamp/05-Test_Project/obj/Debug/net7.0/05-Test_Project.csproj.CoreCompileInputs.cache
+/Users/mac/freecodecamp/05-Test_Project/obj/Debug/net7.0/05-Test_Project.dll
+/Users/mac/freecodecamp/05-Test_Project/obj/Debug/net7.0/refint/05-Test_Project.dll
+/Users/mac/freecodecamp/05-Test_Project/obj/Debug/net7.0/05-Test_Project.pdb
+/Users/mac/freecodecamp/05-Test_Project/obj/Debug/net7.0/05-Test_Project.genruntimeconfig.cache
+/Users/mac/freecodecamp/05-Test_Project/obj/Debug/net7.0/ref/05-Test_Project.dll

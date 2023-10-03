@@ -1,0 +1,15 @@
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/obj/Debug/net7.0/08-Control_variable_scope_and_logic.csproj.AssemblyReference.cache
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/obj/Debug/net7.0/08-Control_variable_scope_and_logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/obj/Debug/net7.0/08-Control_variable_scope_and_logic.AssemblyInfoInputs.cache
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/obj/Debug/net7.0/08-Control_variable_scope_and_logic.AssemblyInfo.cs
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/obj/Debug/net7.0/08-Control_variable_scope_and_logic.csproj.CoreCompileInputs.cache
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/bin/Debug/net7.0/08-Control_variable_scope_and_logic
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/bin/Debug/net7.0/08-Control_variable_scope_and_logic.deps.json
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/bin/Debug/net7.0/08-Control_variable_scope_and_logic.runtimeconfig.json
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/bin/Debug/net7.0/08-Control_variable_scope_and_logic.dll
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/bin/Debug/net7.0/08-Control_variable_scope_and_logic.pdb
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/obj/Debug/net7.0/08-Control_variable_scope_and_logic.dll
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/obj/Debug/net7.0/refint/08-Control_variable_scope_and_logic.dll
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/obj/Debug/net7.0/08-Control_variable_scope_and_logic.pdb
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/obj/Debug/net7.0/08-Control_variable_scope_and_logic.genruntimeconfig.cache
+/Users/mac/freecodecamp/08-Control_variable_scope_and_logic/obj/Debug/net7.0/ref/08-Control_variable_scope_and_logic.dll

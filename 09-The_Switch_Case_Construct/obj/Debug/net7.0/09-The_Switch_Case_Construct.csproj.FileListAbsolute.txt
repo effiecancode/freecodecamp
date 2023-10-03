@@ -1,0 +1,15 @@
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/obj/Debug/net7.0/09-The_Switch_Case_Construct.csproj.AssemblyReference.cache
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/obj/Debug/net7.0/09-The_Switch_Case_Construct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/obj/Debug/net7.0/09-The_Switch_Case_Construct.AssemblyInfoInputs.cache
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/obj/Debug/net7.0/09-The_Switch_Case_Construct.AssemblyInfo.cs
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/obj/Debug/net7.0/09-The_Switch_Case_Construct.csproj.CoreCompileInputs.cache
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/bin/Debug/net7.0/09-The_Switch_Case_Construct
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/bin/Debug/net7.0/09-The_Switch_Case_Construct.deps.json
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/bin/Debug/net7.0/09-The_Switch_Case_Construct.runtimeconfig.json
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/bin/Debug/net7.0/09-The_Switch_Case_Construct.dll
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/bin/Debug/net7.0/09-The_Switch_Case_Construct.pdb
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/obj/Debug/net7.0/09-The_Switch_Case_Construct.dll
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/obj/Debug/net7.0/refint/09-The_Switch_Case_Construct.dll
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/obj/Debug/net7.0/09-The_Switch_Case_Construct.pdb
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/obj/Debug/net7.0/09-The_Switch_Case_Construct.genruntimeconfig.cache
+/Users/mac/freecodecamp/09-The_Switch_Case_Construct/obj/Debug/net7.0/ref/09-The_Switch_Case_Construct.dll

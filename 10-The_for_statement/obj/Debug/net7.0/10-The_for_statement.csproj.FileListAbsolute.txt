@@ -1,0 +1,15 @@
+/Users/mac/freecodecamp/10-The_for_statement/bin/Debug/net7.0/10-The_for_statement
+/Users/mac/freecodecamp/10-The_for_statement/bin/Debug/net7.0/10-The_for_statement.deps.json
+/Users/mac/freecodecamp/10-The_for_statement/bin/Debug/net7.0/10-The_for_statement.runtimeconfig.json
+/Users/mac/freecodecamp/10-The_for_statement/bin/Debug/net7.0/10-The_for_statement.dll
+/Users/mac/freecodecamp/10-The_for_statement/bin/Debug/net7.0/10-The_for_statement.pdb
+/Users/mac/freecodecamp/10-The_for_statement/obj/Debug/net7.0/10-The_for_statement.csproj.AssemblyReference.cache
+/Users/mac/freecodecamp/10-The_for_statement/obj/Debug/net7.0/10-The_for_statement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/freecodecamp/10-The_for_statement/obj/Debug/net7.0/10-The_for_statement.AssemblyInfoInputs.cache
+/Users/mac/freecodecamp/10-The_for_statement/obj/Debug/net7.0/10-The_for_statement.AssemblyInfo.cs
+/Users/mac/freecodecamp/10-The_for_statement/obj/Debug/net7.0/10-The_for_statement.csproj.CoreCompileInputs.cache
+/Users/mac/freecodecamp/10-The_for_statement/obj/Debug/net7.0/10-The_for_statement.dll
+/Users/mac/freecodecamp/10-The_for_statement/obj/Debug/net7.0/refint/10-The_for_statement.dll
+/Users/mac/freecodecamp/10-The_for_statement/obj/Debug/net7.0/10-The_for_statement.pdb
+/Users/mac/freecodecamp/10-The_for_statement/obj/Debug/net7.0/10-The_for_statement.genruntimeconfig.cache
+/Users/mac/freecodecamp/10-The_for_statement/obj/Debug/net7.0/ref/10-The_for_statement.dll

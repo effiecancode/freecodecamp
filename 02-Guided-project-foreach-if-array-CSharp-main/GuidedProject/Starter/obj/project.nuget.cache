@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mlxCJlCZmFpVxRiyBxbS207OdOQwKd8fAOPKkOpD779gnPZjHJkeu8k3z/qRhJWPJPp4ulCrv4crF5BT7QYwWA==",
+  "dgSpecHash": "Vc3L2HBsujw=",
   "success": true,
-  "projectFilePath": "/Users/mac/Downloads/Guided-project-foreach-if-array-CSharp-main-1/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\TTivisha\\freecodecamp\\02-Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+  ],
   "logs": []
 }

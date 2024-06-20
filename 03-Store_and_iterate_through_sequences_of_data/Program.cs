@@ -22,7 +22,7 @@
 // Console.WriteLine($"There are {fraudulentOrderIDs.Length} fraudulent orders to process.");
 
 //implement the foreach statement
-string[] namesof = {"effie", "njoki", "ngina"};
+string[] namesof = {"effie", "njoki", "Cy"};
 foreach (string n in namesof)
 {
     Console.WriteLine(n);
